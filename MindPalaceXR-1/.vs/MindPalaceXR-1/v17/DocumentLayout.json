@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\",
+  "WorkspaceRootPath": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|c:\\users\\mike\\desktop\\personalprojects\\mindpalacexr-1\\assets\\scripts\\createmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|c:\\users\\mike\\desktop\\personalprojects\\mindpalacexr-1\\assets\\scripts\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\assets\\scripts\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|c:\\users\\mike\\desktop\\personalprojects\\mindpalacexr-1\\assets\\scripts\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\assets\\scripts\\flashcardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\assets\\scripts\\flashcardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashcardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\assets\\scripts\\respawnonmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|c:\\users\\mike\\desktop\\mindpalacexrproject\\mindpalacexr-1\\assets\\scripts\\createmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|c:\\users\\mike\\desktop\\mindpalacexrproject\\mindpalacexr-1\\assets\\scripts\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raygun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\assets\\scripts\\respawnonmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F05EDF0-7B69-7D6B-67F0-DD0C1963154D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnonmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 288,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateMesh.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\CreateMesh.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\CreateMesh.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CreateMesh.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\CreateMesh.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\CreateMesh.cs",
               "RelativeToolTip": "Assets\\Scripts\\CreateMesh.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,25 +51,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FlashcardSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\FlashcardSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\FlashcardSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlashcardSpawner.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\FlashcardSpawner.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\FlashcardSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\FlashcardSpawner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T04:58:38.928Z"
+              "WhenOpened": "2024-12-22T04:58:38.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Flashcard.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\Flashcard.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\Flashcard.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Flashcard.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\Flashcard.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\Flashcard.cs",
               "RelativeToolTip": "Assets\\Scripts\\Flashcard.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAowEwAAAAMAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T03:49:33.023Z",
               "EditorCaption": ""
@@ -78,22 +79,21 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FindSpawnPositions.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.mrutilitykit\\Core\\Scripts\\FindSpawnPositions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T07:46:42.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T07:46:42.158Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RespawnOnMove.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\RespawnOnMove.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\RespawnOnMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnOnMove.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\RespawnOnMove.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\RespawnOnMove.cs",
               "RelativeToolTip": "Assets\\Scripts\\RespawnOnMove.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +107,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RayGun.cs",
-              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\RayGun.cs",
+              "DocumentMoniker": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\RayGun.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RayGun.cs",
-              "ToolTip": "C:\\Users\\Mike\\Desktop\\PersonalProjects\\MindPalaceXR-1\\Assets\\Scripts\\RayGun.cs",
+              "ToolTip": "C:\\Users\\Mike\\Desktop\\MindPalaceXRProject\\MindPalaceXR-1\\Assets\\Scripts\\RayGun.cs",
               "RelativeToolTip": "Assets\\Scripts\\RayGun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
