@@ -36,7 +36,7 @@ public class Flashcard : MonoBehaviour
         var trails = pickupParticles.trails;
 
         // 50/50 chance to enable trails
-        if (Random.value > 0.5f)
+        /*if (Random.value > 0.5f)
         {
             trails.enabled = true;
             
@@ -44,10 +44,11 @@ public class Flashcard : MonoBehaviour
             // Enable trails
             trails.enabled = true;
 
-            // Randomize trail properties (example)
+            // Randomize trail properties 
             trails.colorOverLifetime = new ParticleSystem.MinMaxGradient(Color.white, Color.red);
             trails.widthOverTrail = new ParticleSystem.MinMaxCurve(1f, new AnimationCurve(new Keyframe(0f, 1f), new Keyframe(1f, 0f)));
-        }
+            //trails.mode = new ParticleSystem.MinMaxCurve();
+        }*/
 
         // Choose a random sprite from the array
         //int randomSpriteIndex = Random.Range(0, sprites.Length);
