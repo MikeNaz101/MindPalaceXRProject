@@ -1,0 +1,10 @@
+# ninja log v5
+9	1019	7575533808274984	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5c4c3f518135406c
+19	1030	7575533808349132	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c152db439daa877b
+13	1045	7575533808495589	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	75ccc8d28c21a0e6
+31	1050	7575533808603441	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	294af72f0a23e53c
+36	1066	7575533808725773	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	31c78f348b8ccfe6
+5	1103	7575533809127508	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6c2215272de45b24
+24	1166	7575533809771105	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7344f7d6785a63af
+0	1235	7575533810440302	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	50ff804c14cb3c6c
+1235	1351	7575533811659975	C:/Users/Mikey/Desktop/MindPalaceXRProject/MindPalaceXR-1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/2x1c1mr5/obj/arm64-v8a/libgame.so	2321a642b91609cc

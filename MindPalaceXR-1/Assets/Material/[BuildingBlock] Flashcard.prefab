@@ -5356,7 +5356,6 @@ GameObject:
   - component: {fileID: 196616213572652489}
   - component: {fileID: 6808876058786858168}
   - component: {fileID: 3858652421675607628}
-  - component: {fileID: 4280423774343231780}
   m_Layer: 0
   m_Name: '[BuildingBlock] Flashcard'
   m_TagString: Untagged
@@ -5517,29 +5516,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flashcardRenderer: {fileID: 538980877178250464}
   pickupParticles: {fileID: 4425239734859195762}
-  possibleShapes:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   pickupSound: {fileID: 8356357787838092736}
   pickupSounds:
   - {fileID: 8300000, guid: 6ecb333ed8c4ae6428ca54c8a7c61f36, type: 3}
   hapticsController: 96
---- !u!114 &4280423774343231780
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6906227808900974858}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 119da2a10ccf8be40a8fa1ee6c816c31, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &7944699778994488221
 GameObject:
   m_ObjectHideFlags: 0

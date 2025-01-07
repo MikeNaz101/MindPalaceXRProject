@@ -89,8 +89,8 @@ public class Flashcard : MonoBehaviour
 
     void Update()
     {
-        //while (OVRInput.GetDown(OVRInput.Button.PrimaryHandTrigger, hapticsController))
-        if (GetComponent<OVRGrabbable>().isGrabbed)
+        //if (GetComponent<OVRGrabbable>().isGrabbed)
+        while (OVRInput.GetDown(OVRInput.Button.PrimaryHandTrigger, hapticsController))
         {
             if (!hasPlayed) // Do i want it to play the sound continueously?
             {
@@ -103,9 +103,7 @@ public class Flashcard : MonoBehaviour
             OVRInput.SetControllerVibration(vibrationPattern.frequency, vibrationPattern.amplitude, hapticsController);
             pickupParticles.Play();
             //OVRInput.SetControllerVibration(0.5f, 0.5f, hapticsController);
-        }
-        else
-        {
+        
             OVRInput.SetControllerVibration(0f, 0f, hapticsController);
             hasPlayed = false;
         }
